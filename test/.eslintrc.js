@@ -19,5 +19,6 @@ module.exports = {
     'prefer-arrow-callback': 'off',
     'func-names': 'off',
     'no-unused-expressions': 'off',
+    'semi': ['error', 'never'],
   },
 };
