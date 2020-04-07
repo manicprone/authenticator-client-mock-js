@@ -1,6 +1,6 @@
 {
   "name": "authenticator-client-mock-js",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "A simple mock authenticator client (JavaScript)",
   "author": "|M| <manicprone@gmail.com>",
   "main": "dist/lib.js",
