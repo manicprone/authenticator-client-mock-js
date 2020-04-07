@@ -22,8 +22,16 @@ The implementation is designed to be compatible with the `vuestrap-client-auth-s
 
 ### Install
 
+#### with yarn:
+
 ``` sh
-$ yarn add authenticator-client-mock-js
+$ yarn add authenticator-client-mock-js --dev
+```
+
+#### with npm:
+
+``` sh
+$ npm install authenticator-client-mock-js --save-dev
 ```
 
 ### Compatible with the Client Auth Support Vuestrap
